@@ -11,7 +11,7 @@ name:
 postnominals:
 status:
   icon: "✨"
-role: Comuter Engineer
+role: Computer Engineer
 bio: |
   Hello! I am Computer Systems Engineer with a background in embedded firmware development and enterprise automation. 
   I have written production C/C++ for ARM Cortex-M microcontrollers, built AI-driven workflows on Microsoft 365, and diagnosed complex system failures across both hardware and software boundaries. 
@@ -23,8 +23,6 @@ links:
   - icon: at-symbol
     url: mailto:juanesleal99@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
     url: https://github.com/juanesleal
   - icon: brands/linkedin
@@ -56,10 +54,6 @@ experience:
       ▸	Authored governance and ALM policies for Power Platform deployments, including solution packaging, environment strategy, and rollback procedures, reducing deployment risk.
       ▸	Performed root-cause analysis on automation incidents; implemented preventive controls that reduced recurrence and improved SLA compliance.
       ▸	Produced technical documentation and runbooks for automated processes and Copilot configurations to support maintainability and team handover.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
   - role: Software Engineer
     org: Infinti Electro Optics
     start: 2023-11-01
