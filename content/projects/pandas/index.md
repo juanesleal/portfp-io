@@ -1,15 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Circular Buffer Binary Logger
 links:
   - type: site
-    url: https://github.com/pandas-dev/pandas
+    url: https://github.com/juanesleal/circular_logger
 tags:
-  - Hugo
-  - HugoBlox
+  - C
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+A compact binary logging system for resource-constrained embedded targets (ARM Cortex-M class).
 
 <!--more-->
